@@ -1,0 +1,10 @@
+﻿  KimCman_happy.cpp
+c:\users\eunsoo\documents\visual studio 2017\projects\tomato_7076\tomato_7076\kimcman_happy.cpp(33): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(396): note: 'setbuf' 선언을 참조하십시오.
+c:\users\eunsoo\documents\visual studio 2017\projects\tomato_7076\tomato_7076\kimcman_happy.cpp(34): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\eunsoo\documents\visual studio 2017\projects\tomato_7076\tomato_7076\kimcman_happy.cpp(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\eunsoo\documents\visual studio 2017\projects\tomato_7076\tomato_7076\kimcman_happy.cpp(37): warning C4101: 'result' :참조되지 않은 지역 변수입니다.
+  Tomato_7076.vcxproj -> c:\users\eunsoo\documents\visual studio 2017\Projects\Tomato_7076\Debug\Tomato_7076.exe
+  Tomato_7076.vcxproj -> c:\users\eunsoo\documents\visual studio 2017\Projects\Tomato_7076\Debug\Tomato_7076.pdb (Partial PDB)
